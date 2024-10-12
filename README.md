@@ -20,6 +20,6 @@ I'm a software developer passionate about open-source and web development.
 # Certifications
 
 ## 🏆 Certifications
-- [Web Development Certificate](https://drive.google.com/drive/folders/1JvJga4XODNAYxUzq78--gEZRAJOTjzjS) - Issued by [SRKREC CSI ]
-- [Data Science Certificate](https://drive.google.com/drive/folders/1JvJga4XODNAYxUzq78--gEZRAJOTjzjS) - Issued by [NPTEL]
-- [Hackathon Certificate](https://drive.google.com/drive/folders/1JvJga4XODNAYxUzq78--gEZRAJOTjzjS) - Issued by [BrainoVision Solutions india Pvt.Ltd]
+- [Web Development Certificate](https://drive.google.com/file/d/10IMPDrZiYtrHceyUZ2fiVxP5UYYXYO8x/view?usp=drive_link) - Issued by [SRKREC CSI ]
+- [Data Science Certificate](https://drive.google.com/file/d/103k67Qgs2mmsFc9ulINwfdWAiKmoCOSD/view?usp=drive_link) - Issued by [NPTEL]
+- [Hackathon Certificate](https://drive.google.com/file/d/1Id1KRbVxHSh7hGi1MR9MDJZb8hCqUL6d/view?usp=drive_link) - Issued by [BrainoVision Solutions india Pvt.Ltd]
