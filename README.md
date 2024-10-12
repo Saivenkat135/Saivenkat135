@@ -15,4 +15,4 @@ I'm a software developer passionate about open-source and web development.
 
 ## 📫 How to Reach Me
 - **Email**: saivenkatkallepalli@example.com
-- **LinkedIn**: [Sai Venkat](www.linkedin.com/in/sai-venkat-12562828b)
+- **LinkedIn**: www.linkedin.com/in/sai-venkat-12562828b
