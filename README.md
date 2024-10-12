@@ -16,3 +16,10 @@ I'm a software developer passionate about open-source and web development.
 ## 📫 How to Reach Me
 - **Email**: saivenkatkallepalli@example.com
 - **LinkedIn**: www.linkedin.com/in/sai-venkat-12562828b
+
+# Certifications
+
+## 🏆 Certifications
+- [Web Development Certificate](https://drive.google.com/drive/folders/1JvJga4XODNAYxUzq78--gEZRAJOTjzjS) - Issued by [SRKREC CSI ]
+- [Data Science Certificate](https://drive.google.com/drive/folders/1JvJga4XODNAYxUzq78--gEZRAJOTjzjS) - Issued by [NPTEL]
+- [Hackathon Certificate](https://drive.google.com/drive/folders/1JvJga4XODNAYxUzq78--gEZRAJOTjzjS) - Issued by [BrainoVision Solutions india Pvt.Ltd]
