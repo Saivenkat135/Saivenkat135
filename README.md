@@ -14,7 +14,7 @@ I'm a software developer passionate about open-source and web development.
 - [**MediTrance-Hackathon-Project**](https://meditrance.vercel.app/): MediTrance is a user-friendly meditation platform designed to enhance mindfulness and well-being. It offers intuitive features to support users in their meditation practices and promote mental wellness.
 
 ## 📫 How to Reach Me
-- **Email**: saivenkatkallepalli@example.com
+- **Email**: saivenkatkallepalli@gmail.com
 - **LinkedIn**: www.linkedin.com/in/sai-venkat-12562828b
 
 # Certifications
