@@ -13,7 +13,7 @@ I'm a software developer passionate about open-source and web development.
 
 ## Demo Video
 Check out the video demonstration below to see how the platform works:
-[![Demo Video](https://img.icons8.com/color/48/000000/play--v1.png)](https://drive.google.com/file/d/1lNriHb8PgiARGT7LPQRZAOH9oEI1iZhr/view?usp=drive_link)
+[![Demo Video](https://img.icons8.com/color/48/000000/play--v1.png)](https://drive.google.com/file/d/1rIKlClgTn1geVJq60Mleu_7qkv-DymaT/view?usp=drivesdk)
 
 
 
@@ -21,7 +21,7 @@ Check out the video demonstration below to see how the platform works:
 
 ## Demo Video
 Check out the video demonstration below to see how the platform works:
-[![Demo Video](https://img.icons8.com/color/48/000000/play--v1.png)](https://drive.google.com/file/d/1lNSpzi-MNNqvQW-8-yYp9RvKWbptKTvN/view?usp=drive_link)
+[![Demo Video](https://img.icons8.com/color/48/000000/play--v1.png)](https://drive.google.com/file/d/1-Rg7dhFBsMU3I2FNU5uN3q4V7RBVDxwv/view?usp=drivesdk)
 
 
 ## 📫 How to Reach Me
