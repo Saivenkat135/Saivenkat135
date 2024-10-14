@@ -13,7 +13,7 @@ I'm a software developer passionate about open-source and web development.
 
 ## Demo Video
 Check out the video demonstration below to see how the platform works:
-[![Demo Video](https://img.icons8.com/color/48/000000/play--v1.png)](https://drive.google.com/file/d/1rIKlClgTn1geVJq60Mleu_7qkv-DymaT/view?usp=drivesdk)
+[![Demo Video](https://img.icons8.com/color/48/000000/play--v1.png)](https://drive.google.com/file/d/1slVWq_Ess26EvjpBjPYypdpgDKOxRPLp/view?usp=drive_link)
 
 
 
