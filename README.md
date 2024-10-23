@@ -28,6 +28,10 @@ Check out the video demonstration below to see how the platform works:
 - **Email**: saivenkatkallepalli@gmail.com
 - **LinkedIn**: www.linkedin.com/in/sai-venkat-12562828b
 
+- ## Portfolio
+Explore my work and projects on my [personal portfolio website](https://saivenkat-kallepalli.vercel.app/).
+
+
 # Certifications
 
 ## 🏆 Certifications
