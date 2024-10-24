@@ -15,14 +15,11 @@ I'm a software developer passionate about open-source and web development.
 Check out the video demonstration below to see how the platform works:
 [![Demo Video](https://img.icons8.com/color/48/000000/play--v1.png)](https://drive.google.com/file/d/1slVWq_Ess26EvjpBjPYypdpgDKOxRPLp/view?usp=drive_link)
 
-
-
 - [**MediTrance-Hackathon-Project**](https://meditrance.vercel.app/): MediTrance is a user-friendly meditation platform designed to enhance mindfulness and well-being. It offers intuitive features to support users in their meditation practices and promote mental wellness.
 
 ## Demo Video
 Check out the video demonstration below to see how the platform works:
 [![Demo Video](https://img.icons8.com/color/48/000000/play--v1.png)](https://drive.google.com/file/d/1-Rg7dhFBsMU3I2FNU5uN3q4V7RBVDxwv/view?usp=drivesdk)
-
 
 ## 📫 How to Reach Me
 - **Email**: saivenkatkallepalli@gmail.com
