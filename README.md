@@ -21,6 +21,9 @@ Check out the video demonstration below to see how the platform works:
 Check out the video demonstration below to see how the platform works:
 [![Demo Video](https://img.icons8.com/color/48/000000/play--v1.png)](https://drive.google.com/file/d/1-Rg7dhFBsMU3I2FNU5uN3q4V7RBVDxwv/view?usp=drivesdk)
 
+- [**Hash Code Converter**](https://hashify-indol.vercel.app/): A React-based application that allows users to easily generate hash codes for various inputs using algorithms like MD5, SHA-1, and SHA-256. It provides a fast and user-friendly interface for encoding data securely.
+
+
 ## 📫 How to Reach Me
 - **Email**: saivenkatkallepalli@gmail.com
 - **LinkedIn**: www.linkedin.com/in/sai-venkat-12562828b
