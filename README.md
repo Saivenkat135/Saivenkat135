@@ -39,3 +39,9 @@ Explore my work and projects on my [personal portfolio website](https://saivenka
 - [Web Development Certificate](https://drive.google.com/file/d/10IMPDrZiYtrHceyUZ2fiVxP5UYYXYO8x/view?usp=drive_link) - Issued by [SRKREC CSI ]
 - [Data Science Certificate](https://drive.google.com/file/d/103k67Qgs2mmsFc9ulINwfdWAiKmoCOSD/view?usp=drive_link) - Issued by [NPTEL]
 - [Hackathon Certificate](https://drive.google.com/file/d/1Id1KRbVxHSh7hGi1MR9MDJZb8hCqUL6d/view?usp=drive_link) - Issued by [BrainoVision Solutions india Pvt.Ltd]
+
+  ## Languages
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
