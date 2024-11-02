@@ -19,9 +19,10 @@ I'm a MERN stack developer passionate about building impactful web applications 
 
 - [**Hash Code Converter**](https://hashify-indol.vercel.app/): A React-based application that converts input values into hash codes using specified salt rounds. It provides a simple and user-friendly interface for generating secure hashes.
 
-## 📫 How to Reach Me
-- **Email**: saivenkatkallepalli@gmail.com
-- **LinkedIn**: [Sai Venkat](https://www.linkedin.com/in/sai-venkat-12562828b)
+## 📫 Let's Connect
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saivenkatkallepalli@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sai-venkat-12562828b)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/saivenkat__135)
 
 ## 🌐 Portfolio
 Explore my work and projects on my [personal portfolio website](https://saivenkat-kallepalli.vercel.app/).
