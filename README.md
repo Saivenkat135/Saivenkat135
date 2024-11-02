@@ -1,12 +1,13 @@
 # Hi there, I'm Sai Venkat! 👋
 
-I'm a software developer passionate about open-source and web development.
+I'm a MERN stack developer passionate about building impactful web applications and contributing to open-source.
 
 ## 🔧 Technologies & Tools
-- JavaScript
-- React
-- Node.js
-- Mongo Atlas
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
+
 
 ## 🌟 Featured Projects
 
