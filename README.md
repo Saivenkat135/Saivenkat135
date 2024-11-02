@@ -36,9 +36,10 @@ Explore my work and projects on my [personal portfolio website](https://saivenka
 # Certifications
 
 ## 🏆 Certifications
-- [Web Development Certificate](https://drive.google.com/file/d/10IMPDrZiYtrHceyUZ2fiVxP5UYYXYO8x/view?usp=drive_link) - Issued by [SRKREC CSI ]
-- [Data Science Certificate](https://drive.google.com/file/d/103k67Qgs2mmsFc9ulINwfdWAiKmoCOSD/view?usp=drive_link) - Issued by [NPTEL]
-- [Hackathon Certificate](https://drive.google.com/file/d/1Id1KRbVxHSh7hGi1MR9MDJZb8hCqUL6d/view?usp=drive_link) - Issued by [BrainoVision Solutions india Pvt.Ltd]
+- <a href="https://drive.google.com/file/d/10IMPDrZiYtrHceyUZ2fiVxP5UYYXYO8x/view?usp=drive_link" target="_blank">Web Development Certificate</a> - Issued by [SRKREC CSI]
+- <a href="https://drive.google.com/file/d/103k67Qgs2mmsFc9ulINwfdWAiKmoCOSD/view?usp=drive_link" target="_blank">Data Science Certificate</a> - Issued by [NPTEL]
+- <a href="https://drive.google.com/file/d/1Id1KRbVxHSh7hGi1MR9MDJZb8hCqUL6d/view?usp=drive_link" target="_blank">Hackathon Certificate</a> - Issued by [BrainoVision Solutions India Pvt. Ltd.]
+- <a href="https://drive.google.com/file/d/1-CNlpA-S56jhd1KSr5FdWzv5DENxMfgk/view?usp=drive_link" target="_blank">AI-ML using Python Certificate</a> - Issued by [NIELIT]
 
 ## Languages and Technologies known
 
