@@ -17,7 +17,7 @@ I'm a MERN stack developer passionate about building impactful web applications 
 - [**MediTrance-Hackathon-Project**](https://meditrance.vercel.app/): MediTrance is a user-friendly meditation platform designed to enhance mindfulness and well-being. It offers intuitive features to support users in their meditation practices and promote mental wellness.
   - 🎥 [Demo Video](https://drive.google.com/file/d/1-Rg7dhFBsMU3I2FNU5uN3q4V7RBVDxwv/view?usp=drivesdk)
 
-- [**Hash Code Converter**](https://hashify-indol.vercel.app/): A React-based application that converts input values into hash codes using specified salt rounds. It provides a simple and user-friendly interface for generating secure hashes.
+- [**Hash Code Converter**](https://hashify-indol.vercel.app/): A React-based application that converts input values into hash codes using specified salt rounds. It provides a simple and user-friendly interface for generating secure hashes.And also user can easily signup and make login and have a save button to saved your important hashes.
 
 ## 📫 Let's Connect
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saivenkatkallepalli@gmail.com)
@@ -30,8 +30,9 @@ Explore my work and projects on my [personal portfolio website](https://saivenka
 ## 🏆 Certifications
 - <a href="https://drive.google.com/file/d/15SSuTr-b8UbDlmC34mFuoDXY_RyPTmbH/view?usp=drive_link" target="_blank">Web Development Certificate</a> - [SRKREC CSI]
 - <a href="https://drive.google.com/file/d/1pDgcmFtpZijWE5-DejDt9l880ZVBPzjP/view?usp=drive_link" target="_blank">Data Science Certificate</a> - [NPTEL]
-- <a href="https://drive.google.com/file/d/1E8qty7DaRy0x6xlwXGjLYfCMI2jM6NkP/view?usp=drive_link" target="_blank">Hackathon Certificate</a> - [BrainoVision Solutions India Pvt. Ltd.]
+- <a href="https://drive.google.com/file/d/1E8qty7DaRy0x6xlwXGjLYfCMI2jM6NkP/view?usp=drive_link" target="_blank">MERN Hackathon Participation Certificate</a> - [BrainoVision Solutions India Pvt. Ltd.]
 - <a href="https://drive.google.com/file/d/1-CNlpA-S56jhd1KSr5FdWzv5DENxMfgk/view?usp=drive_link" target="_blank">AI-ML using Python Certificate</a> - [NIELIT]
+- <a href="https://drive.google.com/file/d/1ZLiazNaHw07r8zh_jnZSKT0f1BqjuEwW/view?usp=drive_link" target="_blank">Internal Smart India Hackathon Participation Certificate</a> - [Ministry of Education Government of India]
 
 ## Languages and Technologies Known
 
