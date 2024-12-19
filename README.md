@@ -41,7 +41,7 @@ Explore my work and projects on my [personal portfolio website](https://saivenka
 
 ## 📊 GitHub Stats
 
-![Sai Venkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=saivenkat135&show_icons=true&theme=radical)
+<!-- ![Sai Venkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=saivenkat135&show_icons=true&theme=radical) -->
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saivenkat135&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
