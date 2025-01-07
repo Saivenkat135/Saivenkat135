@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&width=600&lines=Hi+there%2C+I'm+Venkat+%F0%9F%91%8B;MERN+Stack+Developer;Passionate+about+Web+Development+%F0%9F%92%BB;Always+Learning+and+Building+%E2%9C%8F%EF%B8%8F)](http://saivenkat-kallepalli.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=**Hi+there%2C+I'm+Venkat+%F0%9F%91%8B**;**MERN+Stack+Developer**)](http://saivenkat-kallepalli.vercel.app)
 
 
 
