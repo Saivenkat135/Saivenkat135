@@ -31,13 +31,16 @@ A tech enthusiast focused on building dynamic web applications, exploring modern
 
 Explore my work and projects on my [personal portfolio website](https://saivenkat-kallepalli.vercel.app/).
 
+## 📄 My Resume
+You can view or download my resume by [clicking here](https://drive.google.com/file/d/1yJFERm-eUi3HHNtV-LBD49pGIlip7ZpT/view?usp=drive_link).
+
 ## 🏆 Certifications
 
-- <a href="https://drive.google.com/file/d/1ZLiazNaHw07r8zh_jnZSKT0f1BqjuEwW/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Internal Smart India Hackathon Participation Certificate</a> - [Ministry of Education Government of India]
-- <a href="https://drive.google.com/file/d/1-CNlpA-S56jhd1KSr5FdWzv5DENxMfgk/view?usp=drive_link" target="_blank" rel="noopener noreferrer">MERN Hackathon Participation Certificate</a> - [BrainoVision Solutions India Pvt. Ltd.]
-- <a href="https://drive.google.com/file/d/15SSuTr-b8UbDlmC34mFuoDXY_RyPTmbH/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Web Development Certificate</a> - [SRKREC CSI]
-- <a href="https://drive.google.com/file/d/1pDgcmFtpZijWE5-DejDt9l880ZVBPzjP/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Data Science Certificate</a> - [NPTEL]
-- <a href="https://drive.google.com/file/d/1E8qty7DaRy0x6xlwXGjLYfCMI2jM6NkP/view?usp=drive_link" target="_blank" rel="noopener noreferrer">AI-ML using Python Certificate</a> - [NIELIT]
+- <a href="https://drive.google.com/file/d/13g_0G9mlf3WGt8unsZ6TjfZJSZP9DnsJ/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Internal Smart India Hackathon Participation Certificate</a> - [Ministry of Education Government of India]
+- <a href="https://drive.google.com/file/d/1L0xTua28EW2vVfZePpHaOwI3jjGUrKXd/view?usp=drive_link" target="_blank" rel="noopener noreferrer">MERN Hackathon Participation Certificate</a> - [BrainoVision Solutions India Pvt. Ltd.]
+- <a href="https://drive.google.com/file/d/17bwL4oHJxK2ZqxTVxtqXQpj67Qizgzqi/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Web Development Certificate</a> - [SRKREC CSI]
+- <a href="https://drive.google.com/file/d/1zWdNmchEcUSpKUNxkmLzpaGTq2lfEaQ-/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Data Science Certificate</a> - [NPTEL]
+- <a href="https://drive.google.com/file/d/18uF2nyhOU90O_lxJqJA0dPSNp9ViHoCo/view?usp=drive_link" target="_blank" rel="noopener noreferrer">AI-ML using Python Certificate</a> - [NIELIT]
 
 ## 📊 GitHub Stats
 
