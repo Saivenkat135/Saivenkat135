@@ -1,10 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=**Hi+there%2C+I'm+Venkat+%F0%9F%91%8B**;**MERN+Stack+Developer**)](http://saivenkat-kallepalli.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Hi+there%2C+I'm+Venkat+%F0%9F%91%8B;MERN+Stack+Developer)](http://saivenkat-kallepalli.vercel.app)
 
-
-
-# Hi there, I'm Sai Venkat! 👋
-
-I'm a MERN stack developer passionate about building impactful web applications and contributing to open-source.
+A tech enthusiast focused on building dynamic web applications, exploring modern frameworks, and delivering scalable solutions.
 
 ## 🔧 Technologies & Tools
 
@@ -51,10 +47,10 @@ Explore my work and projects on my [personal portfolio website](https://saivenka
 
 ## Languages and Technologies Known
 
-| **Frontend**                                                                                              | **Backend**                                                                                                    |
-| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)                 | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)               |
-| ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)                    | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)         |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white) |
-| ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)             |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Frontend**                                                                                              | **Backend**                                                                                                    | **Programming Languages**                                                                  |
+| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)                 | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)               | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)            |
+| ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)                    | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)         | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)   |
+| ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)             |                                                                                                                | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+
