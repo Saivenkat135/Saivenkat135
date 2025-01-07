@@ -39,7 +39,8 @@ You can view or download my resume by [clicking here](https://drive.google.com/f
 - <a href="https://drive.google.com/file/d/13g_0G9mlf3WGt8unsZ6TjfZJSZP9DnsJ/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Internal Smart India Hackathon Participation Certificate</a> - [Ministry of Education Government of India]
 - <a href="https://drive.google.com/file/d/1L0xTua28EW2vVfZePpHaOwI3jjGUrKXd/view?usp=drive_link" target="_blank" rel="noopener noreferrer">MERN Hackathon Participation Certificate</a> - [BrainoVision Solutions India Pvt. Ltd.]
 - <a href="https://drive.google.com/file/d/17bwL4oHJxK2ZqxTVxtqXQpj67Qizgzqi/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Web Development Certificate</a> - [SRKREC CSI]
-- <a href="https://drive.google.com/file/d/1zWdNmchEcUSpKUNxkmLzpaGTq2lfEaQ-/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Data Science Certificate</a> - [NPTEL]
+- <a href="https://github.com/Saivenkat135/my-certifications/raw/main/NPTEL%20Certificate.pdf
+" target="_blank" rel="noopener noreferrer">Data Science Certificate</a> - [NPTEL]
 - <a href="https://drive.google.com/file/d/18uF2nyhOU90O_lxJqJA0dPSNp9ViHoCo/view?usp=drive_link" target="_blank" rel="noopener noreferrer">AI-ML using Python Certificate</a> - [NIELIT]
 
 ## 📊 GitHub Stats
