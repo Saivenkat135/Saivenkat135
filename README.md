@@ -38,6 +38,7 @@ You can view or download my resume by [clicking here](https://github.com/Saivenk
 
 - <a href="https://github.com/Saivenkat135/my-certifications/blob/main/SIH%20certificate.pdf" target="_blank" rel="noopener noreferrer">Internal Smart India Hackathon Participation Certificate</a> - [Ministry of Education Government of India]
 - <a href="https://github.com/Saivenkat135/my-certifications/blob/main/MERN_Hackathon%20(1).pdf" target="_blank" rel="noopener noreferrer">MERN Hackathon Participation Certificate</a> - [BrainoVision Solutions India Pvt. Ltd.]
+- <a href="https://github.com/Saivenkat135/my-certifications/blob/main/Devops_mentor_certificate.pdf" target="_blank" rel="noopener noreferrer">Student Coordinator Certificate - 3 Days DevOps Workshop & 24 Hr Flowthon</a> - [SRKR Engineering College & Brainovision Solutions India Pvt. Ltd.]
 - <a href="https://github.com/Saivenkat135/my-certifications/blob/main/STP%20Web%20Developement%20Certificate.pdf" target="_blank" rel="noopener noreferrer">Web Development Certificate</a> - [SRKREC CSI]
 - <a href="https://github.com/Saivenkat135/my-certifications/blob/main/NPTEL%20Certifiate.pdf
 " target="_blank" rel="noopener noreferrer">Data Science Certificate</a> - [NPTEL]
