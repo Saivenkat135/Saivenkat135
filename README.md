@@ -32,7 +32,7 @@ A tech enthusiast focused on building dynamic web applications, exploring modern
 Explore my work and projects on my [personal portfolio website](https://saivenkat-kallepalli.vercel.app/).
 
 ## 📄 My Resume
-You can view or download my resume by [clicking here](https://github.com/Saivenkat135/my-certifications/blob/main/resume/my%20updated%20resume.pdf).
+You can view or download my resume by [clicking here](https://github.com/Saivenkat135/my-certifications/blob/main/resume/Resume.pdf).
 
 ## 🏆 Certifications
 
