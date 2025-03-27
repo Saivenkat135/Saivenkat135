@@ -31,9 +31,6 @@ A tech enthusiast focused on building dynamic web applications, exploring modern
 
 Explore my work and projects on my [personal portfolio website](https://saivenkat-kallepalli.vercel.app/).
 
-## 📄 My Resume
-You can view or download my resume by [clicking here](https://github.com/Saivenkat135/my-certifications/blob/main/resume/Resume.pdf).
-
 ## 🏆 Certifications
 
 - <a href="https://github.com/Saivenkat135/my-certifications/blob/main/SIH%20certificate.pdf" target="_blank" rel="noopener noreferrer">Internal Smart India Hackathon Participation Certificate</a> - [Ministry of Education Government of India]
