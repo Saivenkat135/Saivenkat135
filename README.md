@@ -11,6 +11,9 @@ A tech enthusiast focused on building dynamic web applications, exploring modern
 
 ## 🌟 Featured Projects
 
+- [**Safe-Cyber-Project**](https://safecyber.vercel.app): The Safe Cyber Project is a cybersecurity initiative focused on promoting digital safety by detecting and preventing the spread of fake news and abusive content online. It features real-time news scraping, NLP-based fake news detection, integration with trusted fact-checking APIs, and Gemini API for credibility analysis. The project also implements WebSockets for real-time communication. Additional modules provide abusive language filtering and user awareness tools to encourage responsible digital behavior.
+
+
 - [**Ayush-SIH-Project**](https://ayush-sih-2024-frontend.vercel.app): The AYUSH Startup Registration Portal simplifies the registration process for AYUSH startups, promoting efficiency and transparency. It leverages cloud computing and data storage to enhance accessibility for farmers, doctors, and drug inspectors.
 
   - 🎥 [Demo Video](https://drive.google.com/file/d/1slVWq_Ess26EvjpBjPYypdpgDKOxRPLp/view?usp=drive_link)
