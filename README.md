@@ -43,12 +43,12 @@ Explore my work and projects on my [personal portfolio website](https://saivenka
 - <a href="https://github.com/Saivenkat135/my-certifications/blob/main/NPTEL%20Certifiate.pdf
 " target="_blank" rel="noopener noreferrer">Data Science Certificate</a> - [NPTEL]
 - <a href="https://github.com/Saivenkat135/my-certifications/blob/main/NIELIT_certificate.pdf" target="_blank" rel="noopener noreferrer">AI-ML using Python Certificate</a> - [NIELIT]
-
+- 
 ## 📊 GitHub Stats
 
-<!-- ![Sai Venkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=saivenkat135&show_icons=true&theme=radical) -->
+![Sai Venkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=saivenkat135&show_icons=true&theme=radical&include_all_commits=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saivenkat135&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saivenkat135&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Languages and Technologies Known
 
