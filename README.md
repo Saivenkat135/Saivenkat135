@@ -1,62 +1,134 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sai+Venkat+%F0%9F%91%8B;MERN+Stack+Developer)](http://saivenkat-kallepalli.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=FFFFFF&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sai+Venkat+%F0%9F%91%8B;MERN+Stack+Developer;Full+Stack+Engineer)](http://saivenkat-kallepalli.vercel.app)
 
-A MERN stack enthusiast focused on building dynamic web applications, exploring modern frameworks, and delivering scalable solutions.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saivenkat135&label=Profile+Views&color=blueviolet&style=flat" alt="profile views" />
+  <a href="https://saivenkat.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:saivenkatkallepalli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sai-venkat-12562828b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/saivenkat__135"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+</p>
 
+---
 
-## 🌟 Featured Projects
+A passionate **MERN Stack Developer** focused on building dynamic, scalable web applications. I love tackling real-world problems through code — from AI-powered cybersecurity platforms to government-backed startup portals.
 
-- [**Cyber-Shield-Project**](https://safecyber.vercel.app): The Safe Cyber Project is a cybersecurity initiative focused on promoting digital safety by detecting and preventing the spread of fake news and abusive content online. It features real-time news scraping, NLP-based fake news detection, integration with trusted fact-checking APIs, and Gemini API for credibility analysis. The project also implements WebSockets for real-time communication. Additional modules provide abusive language filtering and user awareness tools to encourage responsible digital behavior.
+---
 
+## 💼 Work Experience
 
-- [**Ayush-SIH-Project**](https://ayush-sih-2024-frontend.vercel.app): The AYUSH Startup Registration Portal simplifies the registration process for AYUSH startups, promoting efficiency and transparency. It leverages cloud computing and data storage to enhance accessibility for farmers, doctors, and drug inspectors.
+### 🏢 Programmer Analyst Intern — **Cognizant** *(2026)*
+- Developed a **real-time payment monitoring and fraud detection system** using Java (Spring Boot) with microservices architecture.
+- Implemented transaction validation, risk scoring, and **Gemini API integration** to detect fraud and trigger alerts, case management, and SAR reporting.
 
-  - 🎥 [Demo Video](https://drive.google.com/file/d/1slVWq_Ess26EvjpBjPYypdpgDKOxRPLp/view?usp=drive_link)
+### 🌐 Freelance Web Developer — **Souji Aligners** *(2024)*
+- Developed a **business portfolio website** for Souji Aligners showcasing various teeth treatments.
+- Built a contact form that stores user info in an Excel sheet and sends it via email.
 
-- [**MediTrance-Hackathon-Project**](https://meditrance.vercel.app/): MediTrance is a user-friendly meditation platform designed to enhance mindfulness and well-being. It offers intuitive features to support users in their meditation practices and promote mental wellness.
+---
 
-  - 🎥 [Demo Video](https://drive.google.com/file/d/1-Rg7dhFBsMU3I2FNU5uN3q4V7RBVDxwv/view?usp=drivesdk)
+## 🚀 Featured Projects
 
-- [**Hash Code Converter**](https://hashify-indol.vercel.app/): A React-based application that converts input values into hash codes using specified salt rounds. It provides a simple and user-friendly interface for generating secure hashes.And also user can easily signup and make login and have a save button to saved your important hashes.
+### 🛡️ CyberShield — Cybersecurity Awareness Platform
+> [`safecyber.vercel.app`](https://safecyber.vercel.app) | [GitHub Repo](#) <!-- Add repo link -->
 
-## 📫 Let's Connect
+- Developed **Cyber-Shield**, an AI-powered fake news detection and safe social media platform under **Google Developer Groups (GDG)**.
+- Features image & content moderation via **Gemini API**, real-time chat using **WebSockets**, an integrated chatbot, and an automated complaint portal.
+- **Stack:** MERN, RESTful APIs, WebSockets, Gemini API
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saivenkatkallepalli@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sai-venkat-12562828b)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/saivenkat__135)
+---
 
-## 🌐 Portfolio
+### 🌿 AYUSH Startup Registration Portal *(SIH Project)*
+> [`ayush-sih-2024-frontend.vercel.app`](https://ayush-sih-2024-frontend.vercel.app) | [GitHub Repo](#) | [🎥 Demo](https://drive.google.com/file/d/1slVWq_Ess26EvjpBjPYypdpgDKOxRPLp/view?usp=drive_link)
 
-Explore my work and projects on my [personal portfolio website](https://saivenkat-kallepalli.vercel.app/).
+- Built under the **Smart India Hackathon**, enabling seamless startup onboarding and collaboration between farmers, doctors, and startups.
+- Integrated **Gemini API chatbot**, **MongoDB GridFS** for document storage, and a **PDF quality analyzer** to ensure verified uploads.
+- **Stack:** MERN, Gemini API, MongoDB GridFS
+
+---
+
+### 🔗 URL Shortener Web App
+> [`shrinkerr.vercel.app`](https://shrinkerr.vercel.app) | [GitHub Repo](#) <!-- Add repo link -->
+
+- Built a URL shortener web app converting long URLs into short, shareable links with **redirection tracking**.
+- Stores user-submitted URLs in a database, retrieves originals via short links, and tracks **access analytics**.
+- **Stack:** React, Node.js, Express, MongoDB
+
+---
+
+### 🧘 MediTrance — Meditation Platform
+> [`meditrance.vercel.app`](https://meditrance.vercel.app) | [GitHub Repo](#) | [🎥 Demo](https://drive.google.com/file/d/1-Rg7dhFBsMU3I2FNU5uN3q4V7RBVDxwv/view?usp=drivesdk)
+
+- A user-friendly meditation platform designed to enhance mindfulness and well-being.
+- **Stack:** React, Node.js, MongoDB
+
+---
+
+## 💻 Tech Stack
+
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20APIs-5A29E4?style=flat&logo=swagger&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-FFA500?style=flat&logo=socket.io&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?style=flat&logo=apachekafka&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB GridFS](https://img.shields.io/badge/-MongoDB%20GridFS-4DB33D?style=flat&logo=mongodb&logoColor=white)
+
+### 🧠 AI / APIs
+![Gemini API](https://img.shields.io/badge/-Gemini%20API-4285F4?style=flat&logo=google&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-FF6B6B?style=flat&logo=python&logoColor=white)
+![API Integration](https://img.shields.io/badge/-API%20Integration-5A29E4?style=flat&logo=swagger&logoColor=white)
+
+### 💬 Programming Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Replit](https://img.shields.io/badge/-Replit-667881?style=flat&logo=replit&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=saivenkat135&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" width="48%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivenkat135&layout=compact&langs_count=8&theme=radical&hide_border=true" width="40%" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saivenkat135&theme=radical&hide_border=true" width="60%" />
+</p> -->
+
+---
 
 ## 📄 Resume
 
-- You can view or download my resume here:  
-  [![Resume](https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1MeX7sHwH5m2d9beHuZOuBSCrzkd5WuoD/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View%20Resume-Click%20Here-blueviolet?style=for-the-badge&logo=google-drive)](https://saivenkat.vercel.app/resume)
 
+---
 
-## 🏆 Certifications
-
-- <a href="https://github.com/Saivenkat135/my-certifications/blob/main/SIH%20certificate.pdf" target="_blank" rel="noopener noreferrer">Internal Smart India Hackathon Participation Certificate</a> - [Ministry of Education Government of India]
-- <a href="https://github.com/Saivenkat135/my-certifications/blob/main/MERN_Hackathon%20(1).pdf" target="_blank" rel="noopener noreferrer">MERN Hackathon Participation Certificate</a> - [BrainoVision Solutions India Pvt. Ltd.]
-- <a href="https://github.com/Saivenkat135/my-certifications/blob/main/Devops_mentor_certificate.pdf" target="_blank" rel="noopener noreferrer">Student Coordinator Certificate - 3 Days DevOps Workshop & 24 Hr Flowthon</a> - [SRKR Engineering College & Brainovision Solutions India Pvt. Ltd.]
-- <a href="https://github.com/Saivenkat135/my-certifications/blob/main/STP%20Web%20Developement%20Certificate.pdf" target="_blank" rel="noopener noreferrer">Web Development Certificate</a> - [SRKREC CSI]
-- <a href="https://github.com/Saivenkat135/my-certifications/blob/main/NPTEL%20Certifiate.pdf
-" target="_blank" rel="noopener noreferrer">Data Science Certificate</a> - [NPTEL]
-- <a href="https://github.com/Saivenkat135/my-certifications/blob/main/NIELIT_certificate.pdf" target="_blank" rel="noopener noreferrer">AI-ML using Python Certificate</a> - [NIELIT]
-- 
-## 📊 GitHub Stats
-
-<!-- -![Sai Venkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=saivenkat135&show_icons=true&theme=radical&include_all_commits=true)-->
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saivenkat135&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 💻 Languages and Technologies Known
-
-| **Frontend**                                                                                                 | **Backend**                                                                                                     | **Programming Languages**                                                                 | **Developer Tools**                                                                                  | **Additional Skills**                                                                                  |
-| ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)                    | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)                | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)   | ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)          | ![API](https://img.shields.io/badge/-API%20Integration-5A29E4?style=flat&logo=swagger&logoColor=white)  |
-| ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)                       | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)          | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)             | ![Replit](https://img.shields.io/badge/-Replit-667881?style=flat&logo=replit&logoColor=white)           | ![DB](https://img.shields.io/badge/-Database%20Management-4DB33D?style=flat&logo=mysql&logoColor=white)  |
-| ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)   | ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)   | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)           | ![WebSocket](https://img.shields.io/badge/-WebSockets-FFA500?style=flat&logo=socket.io&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)   | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)                      | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)                   | ![WebContainer](https://img.shields.io/badge/-Web%20Containers-8A2BE2?style=flat&logo=stackblitz&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)   | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)               |                                                                                           | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)       |                                                                                                         |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)                  |                                                                                                                 |                                                                                           |                                                                                                        |                                                                                                         |
+<p align="center">
+  <i>"Build things that matter. Ship things that work."</i>
+</p>
